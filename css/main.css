@@ -1,1 +1,4 @@
- main.css
+.thumbnail {
+	border: 1px solid silver;
+	padding-bottom: 10px;
+}
